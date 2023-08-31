@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<EvolutionaryAlgorithm>
+  <Class>algorithms.EvolutionaryAlgorithmWithMap</Class>
+  <Dimensions>2</Dimensions>
+    <DimensionSize>10</DimensionSize>
+    <BehavioralFeature1>geneA</BehavioralFeature1>
+    <BehavioralFeature2>geneB</BehavioralFeature2>
+    <BF1MinValue>-512</BF1MinValue>
+    <BF1MaxValue>512</BF1MaxValue>
+    <BF2MinValue>-512</BF2MinValue>
+    <BF2MaxValue>512</BF2MaxValue>
+    <AlgorithmType>ME</AlgorithmType>
+  <Comparator>es.udc.gii.common.eaf.algorithm.fitness.comparator.MinimizingFitnessComparator</Comparator>
+  <EvaluationStrategy>
+  
+ 
+  <Class>es.udc.gii.common.eaf.algorithm.evaluate.SerialEvaluationStrategy</Class>
+  </EvaluationStrategy>
+  <Population>
+  <Size>10</Size>
+  <Individual>
+     <Class>individual.MEIndividual</Class>
+     <Chromosome size="2"></Chromosome>
+     <!-- ... -->
+  </Individual>
+  </Population>
+  <OperatorChains>
+  <SelectionChain>
+     <Operator>
+        <Class>selections.MESelection</Class>
+        <PoolSize>2</PoolSize>
+     </Operator>
+     <!-- ... -->
+  </SelectionChain>
+
+  <ReproductionChain>
+  <Operator>
+    <Class>es.udc.gii.common.eaf.algorithm.operator.reproduction.crossover.RandomCrossOver</Class>
+    <Probability>0.2</Probability>
+   </Operator>
+   <Operator>
+    <Class>mutation.GaussianMutationWithStdDev</Class>
+      <Probability>0.4</Probability>
+      <Mean>0.0</Mean>
+      <standardDev>0.3</standardDev>
+      <gaussianValue>0.0</gaussianValue>
+   </Operator>
+
+     <!-- ... -->
+  </ReproductionChain>
+  <EvaluationChain>
+     <!-- ... -->
+  </EvaluationChain>
+  <ReplaceChain>
+  <Operator>
+   <Class>es.udc.gii.common.eaf.algorithm.operator.replace.ElitismOperator</Class>
+   <Elitism>2</Elitism>
+   </Operator>
+  </ReplaceChain>
+   
+  </OperatorChains>
+  <Objective>
+   <ObjectiveFunction>
+      <Class>objectives.EggH</Class>
+   </ObjectiveFunction>
+  </Objective>
+  <StopTests>
+     <StopTest>
+<Class>es.udc.gii.common.eaf.stoptest.MaxFEsStopTest</Class>
+         <MaxFEs>50000</MaxFEs>
+        </StopTest>
+  </StopTests>
+<LogTool>	
+        <Log>
+            <Class>log.MAPEvolutionLineLog</Class>
+            <Folder>./log</Folder>
+            <Name>LineLog</Name>
+        </Log>
+        <Log>
+            <Class>log.MAPEvolutionFinalMap</Class>
+            <Folder>./log</Folder>
+            <Name>FinalMap</Name>
+        </Log>
+        <Log>
+            <Class>log.MAPEvolutionFullMap</Class>
+            <Folder>./log</Folder>
+            <Name>FullMap</Name>
+        </Log>
+        <Log>
+            <Class>log.MAPEvolutionFilledMap</Class>
+            <Folder>./log</Folder>
+            <Name>FilledMap</Name>
+        </Log>
+        <Log>
+            <Class>es.udc.gii.common.eaf.log.BestMeanLogTool</Class>
+            <Folder>./log</Folder>
+            <Name>BestMean</Name>
+        </Log>
+         <Log>
+            <Class>es.udc.gii.common.eaf.log.BestIndividualLogTool</Class>
+            <Folder>./log</Folder>
+            <Name>BestIndivid</Name>
+        </Log>
+         <Log>
+            <Class>es.udc.gii.common.eaf.log.BestIndividualLogTool</Class>
+            <Folder>./log</Folder>
+            <Name>BestIndivid</Name>
+        </Log>
+
+    </LogTool>
+</EvolutionaryAlgorithm>

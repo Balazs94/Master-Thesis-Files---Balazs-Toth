@@ -1,0 +1,102 @@
+(BF:0.8378932940226302 BF:0.4723011494499785) location: [0, 0][D@764dfaf3
+location[0, 1]empty	
+location[0, 2]empty	
+(BF:0.3086133020181492 BF:3.316976679731829) location: [0, 3][D@1bbdd4a9
+location[0, 4]empty	
+location[0, 5]empty	
+(BF:0.8378932940226302 BF:6.554391165410781) location: [0, 6][D@2fce34e4
+location[0, 7]empty	
+location[0, 8]empty	
+location[0, 9]empty	
+(BF:1.2954699808263748 BF:0.9450234995618578) location: [1, 0][D@7efceb57
+(BF:1.2954699808263748 BF:1.2791660064006978) location: [1, 1][D@677f0c19
+location[1, 2]empty	
+(BF:1.2013803525088829 BF:3.316976679731829) location: [1, 3][D@129294c3
+(BF:1.2954699808263748 BF:4.266271130481808) location: [1, 4][D@4ca5eb61
+(BF:1.50930114337674 BF:5.4225884718422845) location: [1, 5][D@551a17f1
+(BF:1.50930114337674 BF:6.651303836338629) location: [1, 6][D@4a1ac68f
+(BF:1.2488748395950129 BF:7.966249930210337) location: [1, 7][D@4ca87783
+location[1, 8]empty	
+location[1, 9]empty	
+(BF:2.779079235678159 BF:0.4723011494499785) location: [2, 0][D@2f357394
+(BF:2.779079235678159 BF:1.3916083632384657) location: [2, 1][D@2a155c1c
+location[2, 2]empty	
+(BF:2.779079235678159 BF:3.316976679731829) location: [2, 3][D@36a7c96f
+(BF:2.3650657413662453 BF:4.210650359318555) location: [2, 4][D@393ca457
+(BF:2.7351996314829763 BF:5.99228589945862) location: [2, 5][D@3d91d937
+(BF:2.340536227121474 BF:6.554391165410781) location: [2, 6][D@3de49725
+location[2, 7]empty	
+(BF:2.6444637843614283 BF:8.849257316668837) location: [2, 8][D@3580dd47
+location[2, 9]empty	
+location[3, 0]empty	
+(BF:3.3829750395529414 BF:1.3916083632384657) location: [3, 1][D@6942d9bc
+location[3, 2]empty	
+(BF:3.7090978263256256 BF:3.316976679731829) location: [3, 3][D@5aa9fdc2
+(BF:3.7090978263256256 BF:4.266271130481808) location: [3, 4][D@436d140d
+(BF:3.106665157137396 BF:5.684877813695874) location: [3, 5][D@703483c2
+(BF:3.7090978263256256 BF:6.554391165410781) location: [3, 6][D@f442b41
+location[3, 7]empty	
+(BF:3.2449832895141246 BF:8.477486545390615) location: [3, 8][D@1a168086
+(BF:3.471884212826147 BF:9.838635622650552) location: [3, 9][D@317032b5
+location[4, 0]empty	
+(BF:4.146294972448005 BF:1.2791660064006978) location: [4, 1][D@650e9dca
+location[4, 2]empty	
+(BF:4.682075516869048 BF:3.4527357707548556) location: [4, 3][D@4b3ebc09
+(BF:4.059454234165831 BF:4.8120262453981075) location: [4, 4][D@65820758
+(BF:4.283110819306765 BF:5.99228589945862) location: [4, 5][D@555774c7
+location[4, 6]empty	
+(BF:4.283110819306765 BF:7.966249930210337) location: [4, 7][D@4426536a
+(BF:4.690496475582045 BF:8.849257316668837) location: [4, 8][D@7ac66113
+(BF:4.682075516869048 BF:9.96723435211466) location: [4, 9][D@f0b01d4
+location[5, 0]empty	
+location[5, 1]empty	
+(BF:5.215536907152847 BF:2.6707857685239422) location: [5, 2][D@6114adbe
+(BF:5.332514377791262 BF:3.2841042068448085) location: [5, 3][D@175f1ff5
+(BF:5.007357778812831 BF:4.338241749810048) location: [5, 4][D@5e583af4
+(BF:5.007357778812831 BF:5.624145697294603) location: [5, 5][D@98a954a
+(BF:5.7370444106565355 BF:6.554391165410781) location: [5, 6][D@4d37a098
+(BF:5.900235832654541 BF:7.966249930210337) location: [5, 7][D@22f8be7c
+(BF:5.7370444106565355 BF:8.347357073312473) location: [5, 8][D@3de8af4d
+(BF:5.123070960648222 BF:9.977601540151046) location: [5, 9][D@60155d7f
+location[6, 0]empty	
+location[6, 1]empty	
+(BF:6.367364025379736 BF:2.6707857685239422) location: [6, 2][D@10d60285
+location[6, 3]empty	
+location[6, 4]empty	
+(BF:6.050297525043838 BF:5.341985700446066) location: [6, 5][D@773a45bd
+location[6, 6]empty	
+location[6, 7]empty	
+location[6, 8]empty	
+location[6, 9]empty	
+location[7, 0]empty	
+location[7, 1]empty	
+location[7, 2]empty	
+location[7, 3]empty	
+location[7, 4]empty	
+location[7, 5]empty	
+location[7, 6]empty	
+location[7, 7]empty	
+location[7, 8]empty	
+location[7, 9]empty	
+location[8, 0]empty	
+location[8, 1]empty	
+location[8, 2]empty	
+location[8, 3]empty	
+location[8, 4]empty	
+location[8, 5]empty	
+location[8, 6]empty	
+location[8, 7]empty	
+location[8, 8]empty	
+location[8, 9]empty	
+location[9, 0]empty	
+location[9, 1]empty	
+location[9, 2]empty	
+location[9, 3]empty	
+location[9, 4]empty	
+location[9, 5]empty	
+location[9, 6]empty	
+location[9, 7]empty	
+location[9, 8]empty	
+location[9, 9]empty	
+
+

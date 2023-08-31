@@ -1,0 +1,102 @@
+location[0, 0]empty	
+location[0, 1]empty	
+(BF:0.6293902473268387 BF:2.357594650232546) location: [0, 2][D@60515ab1
+location[0, 3]empty	
+location[0, 4]empty	
+(BF:0.7682282920472505 BF:5.712273273798269) location: [0, 5][D@37e967df
+location[0, 6]empty	
+location[0, 7]empty	
+location[0, 8]empty	
+location[0, 9]empty	
+(BF:1.8111757374772441 BF:0.3856218463912098) location: [1, 0][D@16a89351
+(BF:1.2071205614437353 BF:1.7792565754480294) location: [1, 1][D@395854dd
+location[1, 2]empty	
+location[1, 3]empty	
+location[1, 4]empty	
+location[1, 5]empty	
+location[1, 6]empty	
+location[1, 7]empty	
+location[1, 8]empty	
+location[1, 9]empty	
+location[2, 0]empty	
+location[2, 1]empty	
+location[2, 2]empty	
+location[2, 3]empty	
+location[2, 4]empty	
+(BF:2.9310230355063247 BF:5.8298762309954535) location: [2, 5][D@53b60595
+location[2, 6]empty	
+location[2, 7]empty	
+location[2, 8]empty	
+location[2, 9]empty	
+location[3, 0]empty	
+location[3, 1]empty	
+location[3, 2]empty	
+location[3, 3]empty	
+location[3, 4]empty	
+(BF:3.732444594982849 BF:5.8298762309954535) location: [3, 5][D@2f9d47a3
+location[3, 6]empty	
+location[3, 7]empty	
+(BF:3.7962359984660576 BF:8.232518818470293) location: [3, 8][D@7d7d7b1a
+location[3, 9]empty	
+location[4, 0]empty	
+location[4, 1]empty	
+(BF:4.2882395347147995 BF:2.7524546309695475) location: [4, 2][D@67836d4
+(BF:4.2882395347147995 BF:3.7517902761957744) location: [4, 3][D@65011123
+(BF:4.2882395347147995 BF:4.982165823719096) location: [4, 4][D@20e4e27f
+(BF:4.2882395347147995 BF:5.8298762309954535) location: [4, 5][D@36d7e8d2
+(BF:4.2882395347147995 BF:6.028132172697854) location: [4, 6][D@715ea64a
+(BF:4.2882395347147995 BF:7.118688907810333) location: [4, 7][D@1cbb394b
+(BF:4.2882395347147995 BF:8.106989832810402) location: [4, 8][D@1b4bc7b9
+(BF:4.2882395347147995 BF:9.031036861975736) location: [4, 9][D@12d33d7a
+location[5, 0]empty	
+location[5, 1]empty	
+location[5, 2]empty	
+location[5, 3]empty	
+location[5, 4]empty	
+(BF:5.022822794725094 BF:5.7546289054634965) location: [5, 5][D@16bbb59c
+location[5, 6]empty	
+location[5, 7]empty	
+location[5, 8]empty	
+location[5, 9]empty	
+location[6, 0]empty	
+location[6, 1]empty	
+location[6, 2]empty	
+location[6, 3]empty	
+location[6, 4]empty	
+location[6, 5]empty	
+location[6, 6]empty	
+location[6, 7]empty	
+location[6, 8]empty	
+location[6, 9]empty	
+location[7, 0]empty	
+location[7, 1]empty	
+location[7, 2]empty	
+location[7, 3]empty	
+location[7, 4]empty	
+location[7, 5]empty	
+location[7, 6]empty	
+(BF:7.240437991279521 BF:7.352246546959357) location: [7, 7][D@538fb761
+location[7, 8]empty	
+location[7, 9]empty	
+location[8, 0]empty	
+location[8, 1]empty	
+location[8, 2]empty	
+(BF:8.682773598914615 BF:3.913797508754816) location: [8, 3][D@163cd4a6
+location[8, 4]empty	
+location[8, 5]empty	
+location[8, 6]empty	
+location[8, 7]empty	
+location[8, 8]empty	
+location[8, 9]empty	
+location[9, 0]empty	
+location[9, 1]empty	
+location[9, 2]empty	
+location[9, 3]empty	
+location[9, 4]empty	
+location[9, 5]empty	
+location[9, 6]empty	
+location[9, 7]empty	
+location[9, 8]empty	
+location[9, 9]empty	
+
+
